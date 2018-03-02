@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31366" started-at="2018-03-02T13:05:59Z" finished-at="2018-03-02T13:06:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31366" started-at="2018-03-02T13:05:59Z" finished-at="2018-03-02T13:06:30Z">
+      <class name="com.actime.customertest.CustomerTest">
+        <test-method status="PASS" signature="configBC()[pri:0, instance:com.actime.customertest.CustomerTest@39c0f4a]" name="configBC" is-config="true" duration-ms="6123" started-at="2018-03-02T18:35:59Z" finished-at="2018-03-02T18:36:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.actime.customertest.CustomerTest@39c0f4a]" name="configBM" is-config="true" duration-ms="2897" started-at="2018-03-02T18:36:05Z" finished-at="2018-03-02T18:36:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="createCustomerTest()[pri:0, instance:com.actime.customertest.CustomerTest@39c0f4a]" name="createCustomerTest" duration-ms="9042" started-at="2018-03-02T18:36:08Z" finished-at="2018-03-02T18:36:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCustomerTest -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.actime.customertest.CustomerTest@39c0f4a]" name="configAM" is-config="true" duration-ms="1221" started-at="2018-03-02T18:36:17Z" finished-at="2018-03-02T18:36:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.actime.customertest.CustomerTest@39c0f4a]" name="configBM" is-config="true" duration-ms="1630" started-at="2018-03-02T18:36:18Z" finished-at="2018-03-02T18:36:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="createCustomerWithDescpTest()[pri:0, instance:com.actime.customertest.CustomerTest@39c0f4a]" name="createCustomerWithDescpTest" duration-ms="9128" started-at="2018-03-02T18:36:20Z" finished-at="2018-03-02T18:36:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCustomerWithDescpTest -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.actime.customertest.CustomerTest@39c0f4a]" name="configAM" is-config="true" duration-ms="1203" started-at="2018-03-02T18:36:29Z" finished-at="2018-03-02T18:36:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:com.actime.customertest.CustomerTest@39c0f4a]" name="configAC" is-config="true" duration-ms="57" started-at="2018-03-02T18:36:30Z" finished-at="2018-03-02T18:36:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- com.actime.customertest.CustomerTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
